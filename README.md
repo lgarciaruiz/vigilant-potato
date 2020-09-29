@@ -1,6 +1,6 @@
 # email-code-push package
 
-A package to push code to SMC test using REST API endpoint. Only for Content Builder!
+A package to push code to SMFC environment using REST API endpoint. Only for Content Builder!
 
 ## Instructions
 
