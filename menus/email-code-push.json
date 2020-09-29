@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle email-code-push",
+        "command": "email-code-push:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "email-code-push",
+          "submenu": [
+            {
+              "label": "Push Code: SMC Test",
+              "command": "email-code-push:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
