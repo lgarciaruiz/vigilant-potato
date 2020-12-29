@@ -16,7 +16,11 @@
           "submenu": [
             {
               "label": "Push Code: SMC Test",
-              "command": "email-code-push:toggle"
+              "command": "email-code-push:toggle-test"
+            },
+            {
+              "label": "Push Code: SMC Prod",
+              "command": "email-code-push:toggle-prod"
             }
           ]
         }

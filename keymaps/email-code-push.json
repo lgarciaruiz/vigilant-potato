@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-p": "email-code-push:toggle"
+    "ctrl-alt-t": "email-code-push:toggle-test",
+    "ctrl-alt-p": "email-code-push:toggle-prod"
   }
 }

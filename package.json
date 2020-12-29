@@ -6,9 +6,6 @@
   "keywords": [
     "SalesForce Marketing Cloud"
   ],
-  "activationCommands": {
-    "atom-workspace": "email-code-push:toggle"
-  },
   "repository": "https://github.com/lgarciaruiz/vigilant-potato",
   "license": "MIT",
   "engines": {
