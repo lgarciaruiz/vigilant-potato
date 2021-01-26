@@ -1,7 +1,7 @@
 {
   "name": "email-code-push",
   "main": "./lib/email-code-push",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to push email code to SFMC based on File Name.",
   "keywords": [
     "SalesForce Marketing Cloud"
